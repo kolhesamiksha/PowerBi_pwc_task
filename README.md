@@ -1,7 +1,8 @@
 # PowerBi_pwc_task
 
 
-![image](https://user-images.githubusercontent.com/73512374/190850727-0f8f6dc6-0049-4941-82e2-889d00b9ba73.png)
+![image](https://user-images.githubusercontent.com/73512374/190850823-c5ffae3a-731f-4a67-9c38-e69a0f72e80e.png)
+
 
 
 
